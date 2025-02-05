@@ -1,0 +1,16 @@
+burger:
+  recipe: ['bread','steak','tomato']
+pizza:
+  recipe: ['bread','cheese','tomato']
+steak:
+  recipe: ['meat']
+bread:
+  recipe: ['dough']
+cheese:
+  recipe: null
+tomato:
+  recipe: null
+meat:
+  recipe: null
+dough:
+  recipe: null
